@@ -6,5 +6,6 @@ namespace PISvjezba1
 {
     class Class1
     {
+        void metoda() { }
     }
 }
