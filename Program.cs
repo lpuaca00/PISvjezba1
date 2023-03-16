@@ -9,6 +9,8 @@ namespace PISvjezba1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novi");
             Console.WriteLine("Hellooooo");
+            Console.WriteLine("Ispravak");
+            
         }
     }
 }
